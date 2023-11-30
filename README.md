@@ -1,4 +1,4 @@
-# **[ZenWealth]**
+# **ZenWealth**
 
 ## **Repository Contents:**
 
